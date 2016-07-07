@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This was a new file..
+=======
+this was a new file.
+>>>>>>> 3bd05d2b271c2f5cdead81c92d72bc6c1135dd3a
